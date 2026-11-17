@@ -1,0 +1,6 @@
+interface:
+  display_name: "你以為／其實單物件輪播"
+  short_description: "以固定左右標題與物件狀態重看日常判斷，完成比較、價值觀及分享收尾"
+  default_prompt: "使用 $misconception-object-carousel，依這次帳號、受眾與來源製作你以為／其實單物件對照輪播，前段固定標題，後段在圖內收成價值觀與CTA。"
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "輪播八模式選擇指引"
+  short_description: "先選閱讀邏輯，再接八種輪播的文案、畫面與驗收方法，可跨帳號使用"
+  default_prompt: "使用 $carousel-mode-guide，依這次帳號、受眾和素材推薦輪播模式，未選定時先讓我確認，再完成指定層級的製作。"
+policy:
+  allow_implicit_invocation: true
